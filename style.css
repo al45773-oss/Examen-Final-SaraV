@@ -23,7 +23,7 @@ main {
     max-width: 400px;
     padding: 2rem;
     border-radius: 15px;
-    box-shadow: 0 0 12px rgba(0,0,0,0.2);
+    box-shadow: black;
     display: flex;
     flex-direction: column;
     align-items: center;
